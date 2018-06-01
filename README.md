@@ -1,9 +1,10 @@
 # README
+Rails Girls app from meetup at IT University Copenhagen 1st June 2018
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running. But I was in a hurry, soooo...
 
-Things you may want to cover:
+Things I might want to cover ...another time:
 
 * Ruby version
 
